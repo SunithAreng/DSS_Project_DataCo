@@ -29,5 +29,9 @@ DataCo faces periodic uncertainties in their supply chain management. This repos
    ```bash
    git clone https://github.com/DataCo/supply-chain-optimization.git
 
+2. **Clone the repository:**
+    ```bash
+    pip install -r requirements.txt
+
 ## Link to the Dataset
 https://data.mendeley.com/datasets/8gx2fvg2k6/5
