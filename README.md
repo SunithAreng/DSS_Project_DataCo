@@ -27,8 +27,7 @@ DataCo faces periodic uncertainties in their supply chain management. This repos
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DataCo/supply-chain-optimization.git
-
+   git clone https://github.com/SunithAreng/DSS_Project_DataCo
 2. **Install the dependencies:**
     ```bash
     pip install -r requirements.txt
