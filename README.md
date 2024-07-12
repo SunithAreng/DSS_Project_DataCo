@@ -1,4 +1,4 @@
-# DataCo Supply Chain Optimization
+# DataCo Supply Chain Optimization - MSCI 436 - DSS Term Project
 
 DataCo faces periodic uncertainties in their supply chain management. This repository aims to address these challenges through data-driven approaches and solutions.
 
@@ -29,7 +29,7 @@ DataCo faces periodic uncertainties in their supply chain management. This repos
    ```bash
    git clone https://github.com/DataCo/supply-chain-optimization.git
 
-2. **Clone the repository:**
+2. **Install the dependencies:**
     ```bash
     pip install -r requirements.txt
 
